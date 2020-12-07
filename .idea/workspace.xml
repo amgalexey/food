@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6f24185-4d9e-4676-936b-fd20e8537bd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k3Xn3VuVvnUx2XSesA61DlairK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\dist" />
+      <recent name="C:\MAMP\htdocs\dist\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6f24185-4d9e-4676-936b-fd20e8537bd3" name="Default Changelist" comment="" />
+      <created>1604930411328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604930411328</updated>
+      <workItem from="1604930412383" duration="1960000" />
+      <workItem from="1604993427802" duration="5886000" />
+      <workItem from="1605074840666" duration="1392000" />
+      <workItem from="1605279834986" duration="46000" />
+      <workItem from="1605279900954" duration="2209000" />
+      <workItem from="1605692288532" duration="6344000" />
+      <workItem from="1605805478833" duration="2976000" />
+      <workItem from="1605856242868" duration="3991000" />
+      <workItem from="1605934850937" duration="7129000" />
+      <workItem from="1606142259461" duration="3131000" />
+      <workItem from="1606187937807" duration="957000" />
+      <workItem from="1606192102877" duration="17594000" />
+      <workItem from="1606448825607" duration="1815000" />
+      <workItem from="1606722911047" duration="1373000" />
+      <workItem from="1606753779390" duration="671000" />
+      <workItem from="1606926285037" duration="4790000" />
+      <workItem from="1607071216127" duration="5805000" />
+      <workItem from="1607333229908" duration="2597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606927532339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606927532339" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606754449426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606754449426" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606227296620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606227296620" />
+    <state x="114" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1607333848214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1607333848214" />
+  </component>
+</project>
