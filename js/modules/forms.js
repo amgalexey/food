@@ -5,8 +5,8 @@ function forms(){
     })
     const message = {
         loading: 'img/form/spinner.svg',
-        success: 'Всё, наберу, не еби мозга только!',
-        failure: 'Хуйня какая-тот произошла'
+        success: 'Спасибо! Мы вам перезвоним!',
+        failure: 'Что-то пошло не так'
     }
 
     const postData = async (url, data) => {
